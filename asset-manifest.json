@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/quotes-writer/static/css/main.3e8db4c5.css",
+    "main.js": "/quotes-writer/static/js/main.9ac14f47.js",
+    "index.html": "/quotes-writer/index.html",
+    "main.3e8db4c5.css.map": "/quotes-writer/static/css/main.3e8db4c5.css.map",
+    "main.9ac14f47.js.map": "/quotes-writer/static/js/main.9ac14f47.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e8db4c5.css",
+    "static/js/main.9ac14f47.js"
+  ]
+}
